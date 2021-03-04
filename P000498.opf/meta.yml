@@ -1,16 +1,17 @@
-id: opecha:P000498
+id: P000498
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20189
   title: དྲག་པོ་ཡེ་ཤེས་རབ་འབར་གྱི་བསྙེན་ཡིག་དམ་པའི་ཞལ་ལུང་།
-  volume:
+  author: ''
+  volumes:
     36078fea4dfc490e9a92dca6422a9a48:
       image_group_id: I8LS20191
       title: Volume 1 of drag po ye shes rab 'bar gyi bsnyen yig dam pa'i zhal lung
         /
       volume_number: 1
       total_pages: 70
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དྲག་པོ་ཡེ་ཤེས་རབ་འབར་གྱི་བསྙེན་ཡིག་དམ་པའི་ཞལ་ལུང་།
   author: ''
